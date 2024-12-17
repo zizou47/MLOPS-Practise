@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/4493d3dae80f4421907923f66332ef7c/artifacts
+end_time: 1734462158726
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4493d3dae80f4421907923f66332ef7c
+run_name: fun-elk-787
+run_uuid: 4493d3dae80f4421907923f66332ef7c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734462155131
+status: 3
+tags: []
+user_id: yazid

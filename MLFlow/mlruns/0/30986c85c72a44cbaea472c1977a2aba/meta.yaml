@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/30986c85c72a44cbaea472c1977a2aba/artifacts
+end_time: 1734463416390
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 30986c85c72a44cbaea472c1977a2aba
+run_name: inquisitive-fowl-440
+run_uuid: 30986c85c72a44cbaea472c1977a2aba
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734463413641
+status: 3
+tags: []
+user_id: yazid
