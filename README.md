@@ -1,7 +1,4 @@
-# MLOPS-Practise:
-## Here tools i used in my projects
-
-## Tools Used in MLOps-Practise
+## Tools Used in MLOps-Practise:
 
 | **Tool**       | **Purpose**                                        | **Key Role**                                                             |
 |-----------------|----------------------------------------------------|---------------------------------------------------------------------------|
